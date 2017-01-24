@@ -1,0 +1,14 @@
+\frametitle{SphericalVoronoi Algorithm: Summary}
+\begin{enumerate}
+\item
+Calculate 3D Delaunay triangulation of the generator points.
+\item
+Add the center of the sphere to the triangulation and get a tetrahedralization.
+\item
+Calculate the circumcenter of the circumsphere of each tetahedron.
+\item
+Projet circumcenters to the sphere to get the Voronoi vertices.
+\item
+Use the neighbourhood information from the triangulation to infer, which vertices belong to which region.
+\end{enumerate}
+

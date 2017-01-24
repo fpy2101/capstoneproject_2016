@@ -1,0 +1,13 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Financial Derivatives}{5}{0}{1}
+\beamer@subsectionintoc {1}{1}{FX risk: A practical example}{6}{0}{1}
+\beamer@subsectionintoc {1}{2}{Terminology, Jargon, Basics}{11}{0}{1}
+\beamer@sectionintoc {2}{Counterparty Credit Risk (CCR)}{14}{0}{2}
+\beamer@subsectionintoc {2}{1}{The problem of ''too big to fail''}{15}{0}{2}
+\beamer@subsectionintoc {2}{2}{Collateralization of Derivative Trades}{19}{0}{2}
+\beamer@subsectionintoc {2}{3}{(Dynamic) Initial Margin}{22}{0}{2}
+\beamer@sectionintoc {3}{Open Source Risk Engine}{29}{0}{3}
+\beamer@subsectionintoc {3}{1}{The technical side}{30}{0}{3}
+\beamer@subsectionintoc {3}{2}{Purpose of ORE}{32}{0}{3}
+\beamer@subsectionintoc {3}{3}{What ORE does}{33}{0}{3}
+\beamer@sectionintoc {4}{A vision for the Capstone project}{41}{0}{4}

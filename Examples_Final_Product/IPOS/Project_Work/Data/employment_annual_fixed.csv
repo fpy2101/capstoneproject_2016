@@ -1,0 +1,889 @@
+country,iso3,year,employ
+Antigua and Barbuda,ATG,1980, -   
+Antigua and Barbuda,ATG,1981, -   
+Antigua and Barbuda,ATG,1982, -   
+Antigua and Barbuda,ATG,1983, -   
+Antigua and Barbuda,ATG,1984, -   
+Antigua and Barbuda,ATG,1985, -   
+Antigua and Barbuda,ATG,1986, -   
+Antigua and Barbuda,ATG,1987, -   
+Antigua and Barbuda,ATG,1988,"24,221"
+Antigua and Barbuda,ATG,1989,"24,174"
+Antigua and Barbuda,ATG,1990,"24,120"
+Antigua and Barbuda,ATG,1991,"24,846"
+Antigua and Barbuda,ATG,1992,"25,253"
+Antigua and Barbuda,ATG,1993,"25,658"
+Antigua and Barbuda,ATG,1994,"26,060"
+Antigua and Barbuda,ATG,1995,"26,460"
+Antigua and Barbuda,ATG,1996,"27,284"
+Antigua and Barbuda,ATG,1997,"28,090"
+Antigua and Barbuda,ATG,1998,"29,284"
+Antigua and Barbuda,ATG,1999,"30,525"
+Antigua and Barbuda,ATG,2000,"31,634"
+Antigua and Barbuda,ATG,2001,"31,601"
+Antigua and Barbuda,ATG,2002,"31,642"
+Antigua and Barbuda,ATG,2003,"31,674"
+Antigua and Barbuda,ATG,2004,"32,065"
+Antigua and Barbuda,ATG,2005,"32,456"
+Antigua and Barbuda,ATG,2006,"32,768"
+Antigua and Barbuda,ATG,2007,"33,081"
+Antigua and Barbuda,ATG,2008,"33,394"
+Antigua and Barbuda,ATG,2009,"33,707"
+Antigua and Barbuda,ATG,2010,"34,020"
+Antigua and Barbuda,ATG,2011,"34,411"
+Antigua and Barbuda,ATG,2012,"34,802"
+Antigua and Barbuda,ATG,2013,"35,193"
+Antigua and Barbuda,ATG,2014,"30,714"
+Antigua and Barbuda,ATG,2015,"31,052"
+Antigua and Barbuda,ATG,2016,"31,356"
+Bahamas,BHS,1980, -   
+Bahamas,BHS,1981, -   
+Bahamas,BHS,1982, -   
+Bahamas,BHS,1983, -   
+Bahamas,BHS,1984, -   
+Bahamas,BHS,1985, -   
+Bahamas,BHS,1986, -   
+Bahamas,BHS,1987, -   
+Bahamas,BHS,1988, -   
+Bahamas,BHS,1989, -   
+Bahamas,BHS,1990, -   
+Bahamas,BHS,1991,"113,710"
+Bahamas,BHS,1992,"114,080"
+Bahamas,BHS,1993,"119,834"
+Bahamas,BHS,1994,"122,704"
+Bahamas,BHS,1995,"127,431"
+Bahamas,BHS,1996,"126,307"
+Bahamas,BHS,1997,"128,102"
+Bahamas,BHS,1998,"129,988"
+Bahamas,BHS,1999,"133,798"
+Bahamas,BHS,2000,"137,780"
+Bahamas,BHS,2001,"143,095"
+Bahamas,BHS,2002,"144,890"
+Bahamas,BHS,2003,"147,234"
+Bahamas,BHS,2004,"153,575"
+Bahamas,BHS,2005,"159,700"
+Bahamas,BHS,2006,"169,286"
+Bahamas,BHS,2007,"174,051"
+Bahamas,BHS,2008,"178,126"
+Bahamas,BHS,2009,"172,724"
+Bahamas,BHS,2010,"176,673"
+Bahamas,BHS,2011,"182,421"
+Bahamas,BHS,2012,"185,597"
+Bahamas,BHS,2013,"190,158"
+Bahamas,BHS,2014,"191,500"
+Bahamas,BHS,2015,"192,700"
+Bahamas,BHS,2016,"194,203"
+Barbados,BRB,1980, -   
+Barbados,BRB,1981, -   
+Barbados,BRB,1982, -   
+Barbados,BRB,1983, -   
+Barbados,BRB,1984, -   
+Barbados,BRB,1985, -   
+Barbados,BRB,1986, -   
+Barbados,BRB,1987, -   
+Barbados,BRB,1988,"100,772"
+Barbados,BRB,1989,"107,875"
+Barbados,BRB,1990,"105,400"
+Barbados,BRB,1991,"101,660"
+Barbados,BRB,1992,"97,548"
+Barbados,BRB,1993,"96,292"
+Barbados,BRB,1994,"99,360"
+Barbados,BRB,1995,"110,011"
+Barbados,BRB,1996,"114,512"
+Barbados,BRB,1997,"116,280"
+Barbados,BRB,1998,"119,000"
+Barbados,BRB,1999,"122,615"
+Barbados,BRB,2000,"125,934"
+Barbados,BRB,2001,"130,645"
+Barbados,BRB,2002,"128,271"
+Barbados,BRB,2003,"129,050"
+Barbados,BRB,2004,"131,984"
+Barbados,BRB,2005,"133,419"
+Barbados,BRB,2006,"130,947"
+Barbados,BRB,2007,"133,043"
+Barbados,BRB,2008,"132,823"
+Barbados,BRB,2009,"128,475"
+Barbados,BRB,2010,"126,753"
+Barbados,BRB,2011,"128,360"
+Barbados,BRB,2012,"125,307"
+Barbados,BRB,2013,"126,137"
+Barbados,BRB,2014,"126,263"
+Barbados,BRB,2015,"126,592"
+Barbados,BRB,2016,"127,823"
+Benin,BEN,1980, -   
+Benin,BEN,1981, -   
+Benin,BEN,1982, -   
+Benin,BEN,1983, -   
+Benin,BEN,1984, -   
+Benin,BEN,1985, -   
+Benin,BEN,1986, -   
+Benin,BEN,1987, -   
+Benin,BEN,1988,"1,818,835"
+Benin,BEN,1989,"1,876,802"
+Benin,BEN,1990,"1,940,011"
+Benin,BEN,1991,"2,014,857"
+Benin,BEN,1992,"2,082,655"
+Benin,BEN,1993,"2,179,394"
+Benin,BEN,1994,"2,273,455"
+Benin,BEN,1995,"2,362,145"
+Benin,BEN,1996,"2,437,492"
+Benin,BEN,1997,"2,502,420"
+Benin,BEN,1998,"2,569,306"
+Benin,BEN,1999,"2,639,916"
+Benin,BEN,2000,"2,723,623"
+Benin,BEN,2001,"2,813,040"
+Benin,BEN,2002,"2,906,958"
+Benin,BEN,2003,"3,013,340"
+Benin,BEN,2004,"3,118,297"
+Benin,BEN,2005,"3,239,576"
+Benin,BEN,2006,"3,362,469"
+Benin,BEN,2007,"3,484,135"
+Benin,BEN,2008,"3,610,375"
+Benin,BEN,2009,"3,736,619"
+Benin,BEN,2010,"3,877,854"
+Benin,BEN,2011,"4,001,035"
+Benin,BEN,2012,"4,127,808"
+Benin,BEN,2013,"4,264,554"
+Benin,BEN,2014,"4,454,634"
+Benin,BEN,2015,"4,596,896"
+Benin,BEN,2016,"4,740,524"
+"Bolivia, Plurinational State of",BOL,1980, -   
+"Bolivia, Plurinational State of",BOL,1981, -   
+"Bolivia, Plurinational State of",BOL,1982, -   
+"Bolivia, Plurinational State of",BOL,1983, -   
+"Bolivia, Plurinational State of",BOL,1984, -   
+"Bolivia, Plurinational State of",BOL,1985, -   
+"Bolivia, Plurinational State of",BOL,1986, -   
+"Bolivia, Plurinational State of",BOL,1987, -   
+"Bolivia, Plurinational State of",BOL,1988,"2,239,940"
+"Bolivia, Plurinational State of",BOL,1989,"2,341,743"
+"Bolivia, Plurinational State of",BOL,1990,"2,470,270"
+"Bolivia, Plurinational State of",BOL,1991,"2,585,225"
+"Bolivia, Plurinational State of",BOL,1992,"2,675,288"
+"Bolivia, Plurinational State of",BOL,1993,"2,750,461"
+"Bolivia, Plurinational State of",BOL,1994,"2,917,775"
+"Bolivia, Plurinational State of",BOL,1995,"2,998,503"
+"Bolivia, Plurinational State of",BOL,1996,"3,119,766"
+"Bolivia, Plurinational State of",BOL,1997,"3,232,695"
+"Bolivia, Plurinational State of",BOL,1998,"3,250,536"
+"Bolivia, Plurinational State of",BOL,1999,"3,288,396"
+"Bolivia, Plurinational State of",BOL,2000,"3,354,624"
+"Bolivia, Plurinational State of",BOL,2001,"3,401,906"
+"Bolivia, Plurinational State of",BOL,2002,"3,485,186"
+"Bolivia, Plurinational State of",BOL,2003,"3,553,549"
+"Bolivia, Plurinational State of",BOL,2004,"3,763,021"
+"Bolivia, Plurinational State of",BOL,2005,"3,778,643"
+"Bolivia, Plurinational State of",BOL,2006,"3,881,140"
+"Bolivia, Plurinational State of",BOL,2007,"3,999,830"
+"Bolivia, Plurinational State of",BOL,2008,"4,141,223"
+"Bolivia, Plurinational State of",BOL,2009,"4,199,023"
+"Bolivia, Plurinational State of",BOL,2010,"4,391,816"
+"Bolivia, Plurinational State of",BOL,2011,"4,511,850"
+"Bolivia, Plurinational State of",BOL,2012,"4,601,744"
+"Bolivia, Plurinational State of",BOL,2013,"4,698,487"
+"Bolivia, Plurinational State of",BOL,2014,"4,782,213"
+"Bolivia, Plurinational State of",BOL,2015,"4,855,846"
+"Bolivia, Plurinational State of",BOL,2016,"4,919,743"
+Botswana,BWA,1980, -   
+Botswana,BWA,1981, -   
+Botswana,BWA,1982, -   
+Botswana,BWA,1983, -   
+Botswana,BWA,1984, -   
+Botswana,BWA,1985, -   
+Botswana,BWA,1986, -   
+Botswana,BWA,1987, -   
+Botswana,BWA,1988,"414,370"
+Botswana,BWA,1989,"430,836"
+Botswana,BWA,1990,"448,323"
+Botswana,BWA,1991,"467,122"
+Botswana,BWA,1992,"472,862"
+Botswana,BWA,1993,"488,280"
+Botswana,BWA,1994,"518,346"
+Botswana,BWA,1995,"537,240"
+Botswana,BWA,1996,"555,696"
+Botswana,BWA,1997,"577,992"
+Botswana,BWA,1998,"599,079"
+Botswana,BWA,1999,"609,159"
+Botswana,BWA,2000,"626,477"
+Botswana,BWA,2001,"633,880"
+Botswana,BWA,2002,"675,422"
+Botswana,BWA,2003,"661,131"
+Botswana,BWA,2004,"685,844"
+Botswana,BWA,2005,"711,818"
+Botswana,BWA,2006,"772,816"
+Botswana,BWA,2007,"786,763"
+Botswana,BWA,2008,"775,039"
+Botswana,BWA,2009,"832,247"
+Botswana,BWA,2010,"860,128"
+Botswana,BWA,2011,"883,816"
+Botswana,BWA,2012,"907,567"
+Botswana,BWA,2013,"921,022"
+Botswana,BWA,2014,"938,679"
+Botswana,BWA,2015,"951,976"
+Botswana,BWA,2016,"965,285"
+Dominica,DMA,1980, -   
+Dominica,DMA,1981, -   
+Dominica,DMA,1982, -   
+Dominica,DMA,1983, -   
+Dominica,DMA,1984, -   
+Dominica,DMA,1985, -   
+Dominica,DMA,1986, -   
+Dominica,DMA,1987, -   
+Dominica,DMA,1988,"35,454"
+Dominica,DMA,1989,"34,955"
+Dominica,DMA,1990,"35,101"
+Dominica,DMA,1991,"35,117"
+Dominica,DMA,1992,"35,173"
+Dominica,DMA,1993,"35,217"
+Dominica,DMA,1994,"35,255"
+Dominica,DMA,1995,"35,306"
+Dominica,DMA,1996,"35,772"
+Dominica,DMA,1997,"35,878"
+Dominica,DMA,1998,"35,598"
+Dominica,DMA,1999,"35,246"
+Dominica,DMA,2000,"34,068"
+Dominica,DMA,2001,"34,763"
+Dominica,DMA,2002,"35,121"
+Dominica,DMA,2003,"35,429"
+Dominica,DMA,2004,"35,737"
+Dominica,DMA,2005,"36,248"
+Dominica,DMA,2006,"36,248"
+Dominica,DMA,2007,"36,248"
+Dominica,DMA,2008,"36,248"
+Dominica,DMA,2009,"36,248"
+Dominica,DMA,2010,"36,248"
+Dominica,DMA,2011,"34,540"
+Dominica,DMA,2012,"34,609"
+Dominica,DMA,2013,"34,730"
+Dominica,DMA,2014,"34,907"
+Dominica,DMA,2015,"35,085"
+Dominica,DMA,2016,"35,259"
+Ecuador,ECU,1980, -   
+Ecuador,ECU,1981, -   
+Ecuador,ECU,1982, -   
+Ecuador,ECU,1983, -   
+Ecuador,ECU,1984, -   
+Ecuador,ECU,1985, -   
+Ecuador,ECU,1986, -   
+Ecuador,ECU,1987,"1,148,000"
+Ecuador,ECU,1988,"2,068,000"
+Ecuador,ECU,1989,"2,192,000"
+Ecuador,ECU,1990,"2,331,000"
+Ecuador,ECU,1991,"2,562,000"
+Ecuador,ECU,1992,"2,693,000"
+Ecuador,ECU,1993,"2,651,000"
+Ecuador,ECU,1994,"2,698,000"
+Ecuador,ECU,1995,"2,892,000"
+Ecuador,ECU,1996,"2,889,000"
+Ecuador,ECU,1997,"3,062,000"
+Ecuador,ECU,1998,"3,151,000"
+Ecuador,ECU,1999,"3,226,000"
+Ecuador,ECU,2000,"3,376,000"
+Ecuador,ECU,2001,"3,673,000"
+Ecuador,ECU,2002,"3,459,000"
+Ecuador,ECU,2003,"3,531,000"
+Ecuador,ECU,2004,"3,859,000"
+Ecuador,ECU,2005,"3,892,000"
+Ecuador,ECU,2006,"4,032,000"
+Ecuador,ECU,2007,"4,170,000"
+Ecuador,ECU,2008,"4,175,000"
+Ecuador,ECU,2009,"4,121,000"
+Ecuador,ECU,2010,"4,135,000"
+Ecuador,ECU,2011,"4,168,000"
+Ecuador,ECU,2012,"4,319,000"
+Ecuador,ECU,2013,"4,418,000"
+Ecuador,ECU,2014, -   
+Ecuador,ECU,2015, -   
+Ecuador,ECU,2016, -   
+El Salvador,SLV,1980, -   
+El Salvador,SLV,1981, -   
+El Salvador,SLV,1982, -   
+El Salvador,SLV,1983, -   
+El Salvador,SLV,1984, -   
+El Salvador,SLV,1985, -   
+El Salvador,SLV,1986, -   
+El Salvador,SLV,1987, -   
+El Salvador,SLV,1988, -   
+El Salvador,SLV,1989, -   
+El Salvador,SLV,1990, -   
+El Salvador,SLV,1991, -   
+El Salvador,SLV,1992, -   
+El Salvador,SLV,1993, -   
+El Salvador,SLV,1994, -   
+El Salvador,SLV,1995, -   
+El Salvador,SLV,1996, -   
+El Salvador,SLV,1997, -   
+El Salvador,SLV,1998, -   
+El Salvador,SLV,1999, -   
+El Salvador,SLV,2000, -   
+El Salvador,SLV,2001, -   
+El Salvador,SLV,2002, -   
+El Salvador,SLV,2003, -   
+El Salvador,SLV,2004, -   
+El Salvador,SLV,2005,"2,591,076"
+El Salvador,SLV,2006,"2,685,862"
+El Salvador,SLV,2007,"2,173,963"
+El Salvador,SLV,2008,"2,349,050"
+El Salvador,SLV,2009,"2,364,579"
+El Salvador,SLV,2010,"2,398,478"
+El Salvador,SLV,2011,"2,466,375"
+El Salvador,SLV,2012,"2,559,315"
+El Salvador,SLV,2013,"2,629,507"
+El Salvador,SLV,2014,"2,644,082"
+El Salvador,SLV,2015, -   
+El Salvador,SLV,2016, -   
+Ghana,GHA,1980, -   
+Ghana,GHA,1981, -   
+Ghana,GHA,1982, -   
+Ghana,GHA,1983, -   
+Ghana,GHA,1984, -   
+Ghana,GHA,1985, -   
+Ghana,GHA,1986, -   
+Ghana,GHA,1987, -   
+Ghana,GHA,1988,"2,577,190"
+Ghana,GHA,1989,"2,668,488"
+Ghana,GHA,1990,"2,774,846"
+Ghana,GHA,1991,"5,547,758"
+Ghana,GHA,1992,"5,951,714"
+Ghana,GHA,1993,"5,865,911"
+Ghana,GHA,1994,"6,347,654"
+Ghana,GHA,1995,"6,748,189"
+Ghana,GHA,1996,"6,511,928"
+Ghana,GHA,1997,"6,906,714"
+Ghana,GHA,1998,"7,070,014"
+Ghana,GHA,1999,"7,157,955"
+Ghana,GHA,2000,"7,379,680"
+Ghana,GHA,2001,"7,539,327"
+Ghana,GHA,2002,"7,675,109"
+Ghana,GHA,2003,"7,943,643"
+Ghana,GHA,2004,"8,165,494"
+Ghana,GHA,2005,"8,562,993"
+Ghana,GHA,2006,"8,705,016"
+Ghana,GHA,2007,"9,042,643"
+Ghana,GHA,2008,"9,188,894"
+Ghana,GHA,2009,"9,672,303"
+Ghana,GHA,2010,"9,664,088"
+Ghana,GHA,2011,"10,009,490"
+Ghana,GHA,2012,"10,335,860"
+Ghana,GHA,2013,"10,559,680"
+Ghana,GHA,2014,"10,823,510"
+Ghana,GHA,2015,"11,111,300"
+Ghana,GHA,2016,"11,408,140"
+Grenada,GRD,1980, -   
+Grenada,GRD,1981, -   
+Grenada,GRD,1982, -   
+Grenada,GRD,1983, -   
+Grenada,GRD,1984, -   
+Grenada,GRD,1985, -   
+Grenada,GRD,1986, -   
+Grenada,GRD,1987, -   
+Grenada,GRD,1988,"35,960"
+Grenada,GRD,1989,"34,672"
+Grenada,GRD,1990,"33,966"
+Grenada,GRD,1991,"33,961"
+Grenada,GRD,1992,"32,769"
+Grenada,GRD,1993,"32,645"
+Grenada,GRD,1994,"30,952"
+Grenada,GRD,1995,"33,888"
+Grenada,GRD,1996,"36,761"
+Grenada,GRD,1997,"37,748"
+Grenada,GRD,1998,"38,705"
+Grenada,GRD,1999,"39,331"
+Grenada,GRD,2000,"40,072"
+Grenada,GRD,2001,"40,937"
+Grenada,GRD,2002,"41,892"
+Grenada,GRD,2003,"42,890"
+Grenada,GRD,2004,"43,875"
+Grenada,GRD,2005,"44,798"
+Grenada,GRD,2006,"45,645"
+Grenada,GRD,2007,"46,428"
+Grenada,GRD,2008,"47,148"
+Grenada,GRD,2009,"47,833"
+Grenada,GRD,2010,"48,499"
+Grenada,GRD,2011,"49,141"
+Grenada,GRD,2012,"47,222"
+Grenada,GRD,2013,"47,554"
+Grenada,GRD,2014,"47,972"
+Grenada,GRD,2015,"48,391"
+Grenada,GRD,2016,"48,572"
+Guatemala,GTM,1980, -   
+Guatemala,GTM,1981, -   
+Guatemala,GTM,1982, -   
+Guatemala,GTM,1983, -   
+Guatemala,GTM,1984, -   
+Guatemala,GTM,1985, -   
+Guatemala,GTM,1986, -   
+Guatemala,GTM,1987, -   
+Guatemala,GTM,1988, -   
+Guatemala,GTM,1989, -   
+Guatemala,GTM,1990, -   
+Guatemala,GTM,1991, -   
+Guatemala,GTM,1992, -   
+Guatemala,GTM,1993,"3,251,845"
+Guatemala,GTM,1994,"3,293,535"
+Guatemala,GTM,1995,"3,358,637"
+Guatemala,GTM,1996,"3,393,262"
+Guatemala,GTM,1997,"3,479,604"
+Guatemala,GTM,1998,"3,614,128"
+Guatemala,GTM,1999,"3,688,961"
+Guatemala,GTM,2000,"3,772,717"
+Guatemala,GTM,2001,"3,859,822"
+Guatemala,GTM,2002,"3,950,420"
+Guatemala,GTM,2003,"4,070,712"
+Guatemala,GTM,2004,"4,230,080"
+Guatemala,GTM,2005,"4,485,361"
+Guatemala,GTM,2006,"4,740,288"
+Guatemala,GTM,2007,"4,884,434"
+Guatemala,GTM,2008,"5,050,108"
+Guatemala,GTM,2009,"5,201,404"
+Guatemala,GTM,2010,"5,381,304"
+Guatemala,GTM,2011,"5,659,803"
+Guatemala,GTM,2012,"5,873,320"
+Guatemala,GTM,2013,"6,446,447"
+Guatemala,GTM,2014,"6,623,725"
+Guatemala,GTM,2015,"6,809,188"
+Guatemala,GTM,2016,"7,006,656"
+Iceland,ISL,1980, -   
+Iceland,ISL,1981, -   
+Iceland,ISL,1982, -   
+Iceland,ISL,1983, -   
+Iceland,ISL,1984, -   
+Iceland,ISL,1985, -   
+Iceland,ISL,1986, -   
+Iceland,ISL,1987, -   
+Iceland,ISL,1988, -   
+Iceland,ISL,1989, -   
+Iceland,ISL,1990, -   
+Iceland,ISL,1991,"136,900"
+Iceland,ISL,1992,"136,900"
+Iceland,ISL,1993,"136,600"
+Iceland,ISL,1994,"137,700"
+Iceland,ISL,1995,"141,800"
+Iceland,ISL,1996,"142,000"
+Iceland,ISL,1997,"142,000"
+Iceland,ISL,1998,"147,900"
+Iceland,ISL,1999,"153,300"
+Iceland,ISL,2000,"156,400"
+Iceland,ISL,2001,"159,000"
+Iceland,ISL,2002,"156,700"
+Iceland,ISL,2003,"157,100"
+Iceland,ISL,2004,"156,500"
+Iceland,ISL,2005,"161,600"
+Iceland,ISL,2006,"169,800"
+Iceland,ISL,2007,"177,500"
+Iceland,ISL,2008,"179,100"
+Iceland,ISL,2009,"168,000"
+Iceland,ISL,2010,"167,400"
+Iceland,ISL,2011,"167,400"
+Iceland,ISL,2012,"169,100"
+Iceland,ISL,2013,"174,900"
+Iceland,ISL,2014,"177,700"
+Iceland,ISL,2015, -   
+Iceland,ISL,2016, -   
+Jamaica,JAM,1980, -   
+Jamaica,JAM,1981, -   
+Jamaica,JAM,1982, -   
+Jamaica,JAM,1983, -   
+Jamaica,JAM,1984, -   
+Jamaica,JAM,1985, -   
+Jamaica,JAM,1986, -   
+Jamaica,JAM,1987, -   
+Jamaica,JAM,1988,"872,000"
+Jamaica,JAM,1989,"881,000"
+Jamaica,JAM,1990,"896,000"
+Jamaica,JAM,1991,"908,000"
+Jamaica,JAM,1992,"906,000"
+Jamaica,JAM,1993,"906,000"
+Jamaica,JAM,1994,"923,000"
+Jamaica,JAM,1995,"963,000"
+Jamaica,JAM,1996,"960,000"
+Jamaica,JAM,1997,"956,000"
+Jamaica,JAM,1998,"954,000"
+Jamaica,JAM,1999,"937,000"
+Jamaica,JAM,2000,"936,000"
+Jamaica,JAM,2001,"942,000"
+Jamaica,JAM,2002,"1,037,000"
+Jamaica,JAM,2003,"1,048,000"
+Jamaica,JAM,2004,"1,050,000"
+Jamaica,JAM,2005,"1,057,000"
+Jamaica,JAM,2006,"1,124,000"
+Jamaica,JAM,2007,"1,153,000"
+Jamaica,JAM,2008,"1,159,000"
+Jamaica,JAM,2009,"1,126,000"
+Jamaica,JAM,2010,"1,095,000"
+Jamaica,JAM,2011,"1,099,000"
+Jamaica,JAM,2012,"1,103,000"
+Jamaica,JAM,2013,"1,109,000"
+Jamaica,JAM,2014,"1,143,862"
+Jamaica,JAM,2015,"1,150,031"
+Jamaica,JAM,2016,"1,158,320"
+Malta,MLT,1980, -   
+Malta,MLT,1981, -   
+Malta,MLT,1982, -   
+Malta,MLT,1983, -   
+Malta,MLT,1984, -   
+Malta,MLT,1985, -   
+Malta,MLT,1986, -   
+Malta,MLT,1987, -   
+Malta,MLT,1988, -   
+Malta,MLT,1989, -   
+Malta,MLT,1990,"134,209"
+Malta,MLT,1991,"136,778"
+Malta,MLT,1992,"138,535"
+Malta,MLT,1993,"139,743"
+Malta,MLT,1994,"140,435"
+Malta,MLT,1995,"144,860"
+Malta,MLT,1996,"147,120"
+Malta,MLT,1997,"147,510"
+Malta,MLT,1998,"147,210"
+Malta,MLT,1999,"148,190"
+Malta,MLT,2000,"146,400"
+Malta,MLT,2001,"148,980"
+Malta,MLT,2002,"149,390"
+Malta,MLT,2003,"148,820"
+Malta,MLT,2004,"149,370"
+Malta,MLT,2005,"151,260"
+Malta,MLT,2006,"153,510"
+Malta,MLT,2007,"156,950"
+Malta,MLT,2008,"160,940"
+Malta,MLT,2009,"161,000"
+Malta,MLT,2010,"163,740"
+Malta,MLT,2011,"168,620"
+Malta,MLT,2012,"172,830"
+Malta,MLT,2013,"179,280"
+Malta,MLT,2014,"188,300"
+Malta,MLT,2015,"192,175"
+Malta,MLT,2016,"196,755"
+Mongolia,MNG,1980, -   
+Mongolia,MNG,1981, -   
+Mongolia,MNG,1982, -   
+Mongolia,MNG,1983, -   
+Mongolia,MNG,1984, -   
+Mongolia,MNG,1985, -   
+Mongolia,MNG,1986, -   
+Mongolia,MNG,1987, -   
+Mongolia,MNG,1988,"743,300"
+Mongolia,MNG,1989,"764,100"
+Mongolia,MNG,1990,"783,600"
+Mongolia,MNG,1991,"795,700"
+Mongolia,MNG,1992,"806,000"
+Mongolia,MNG,1993,"765,400"
+Mongolia,MNG,1994,"759,800"
+Mongolia,MNG,1995,"767,600"
+Mongolia,MNG,1996,"769,600"
+Mongolia,MNG,1997,"765,100"
+Mongolia,MNG,1998,"792,600"
+Mongolia,MNG,1999,"813,400"
+Mongolia,MNG,2000,"809,000"
+Mongolia,MNG,2001,"832,300"
+Mongolia,MNG,2002,"870,800"
+Mongolia,MNG,2003,"926,500"
+Mongolia,MNG,2004,"950,500"
+Mongolia,MNG,2005,"968,300"
+Mongolia,MNG,2006,"1,009,900"
+Mongolia,MNG,2007,"1,024,000"
+Mongolia,MNG,2008,"1,041,700"
+Mongolia,MNG,2009,"1,006,300"
+Mongolia,MNG,2010,"1,033,700"
+Mongolia,MNG,2011,"1,037,700"
+Mongolia,MNG,2012,"1,056,400"
+Mongolia,MNG,2013,"1,103,600"
+Mongolia,MNG,2014,"1,110,700"
+Mongolia,MNG,2015,"1,132,914"
+Mongolia,MNG,2016,"1,178,230"
+Namibia,NAM,1980, -   
+Namibia,NAM,1981, -   
+Namibia,NAM,1982, -   
+Namibia,NAM,1983, -   
+Namibia,NAM,1984, -   
+Namibia,NAM,1985, -   
+Namibia,NAM,1986, -   
+Namibia,NAM,1987, -   
+Namibia,NAM,1988,"319,116"
+Namibia,NAM,1989,"341,031"
+Namibia,NAM,1990,"361,290"
+Namibia,NAM,1991,"377,403"
+Namibia,NAM,1992,"393,208"
+Namibia,NAM,1993,"408,455"
+Namibia,NAM,1994,"423,022"
+Namibia,NAM,1995,"432,367"
+Namibia,NAM,1996,"443,571"
+Namibia,NAM,1997,"455,340"
+Namibia,NAM,1998,"474,938"
+Namibia,NAM,1999,"493,425"
+Namibia,NAM,2000,"508,894"
+Namibia,NAM,2001,"520,351"
+Namibia,NAM,2002,"560,255"
+Namibia,NAM,2003,"562,486"
+Namibia,NAM,2004,"567,429"
+Namibia,NAM,2005,"597,771"
+Namibia,NAM,2006,"604,519"
+Namibia,NAM,2007,"643,927"
+Namibia,NAM,2008,"514,437"
+Namibia,NAM,2009,"581,742"
+Namibia,NAM,2010,"647,393"
+Namibia,NAM,2011,"670,277"
+Namibia,NAM,2012,"699,012"
+Namibia,NAM,2013,"723,086"
+Namibia,NAM,2014,"760,769"
+Namibia,NAM,2015,"777,752"
+Namibia,NAM,2016,"796,369"
+Nicaragua,NIC,1980, -   
+Nicaragua,NIC,1981, -   
+Nicaragua,NIC,1982, -   
+Nicaragua,NIC,1983, -   
+Nicaragua,NIC,1984, -   
+Nicaragua,NIC,1985, -   
+Nicaragua,NIC,1986, -   
+Nicaragua,NIC,1987, -   
+Nicaragua,NIC,1988,"1,154,930"
+Nicaragua,NIC,1989,"1,164,719"
+Nicaragua,NIC,1990,"1,220,210"
+Nicaragua,NIC,1991,"1,201,737"
+Nicaragua,NIC,1992,"1,198,893"
+Nicaragua,NIC,1993,"1,187,020"
+Nicaragua,NIC,1994,"1,235,119"
+Nicaragua,NIC,1995,"1,276,510"
+Nicaragua,NIC,1996,"1,335,874"
+Nicaragua,NIC,1997,"1,411,331"
+Nicaragua,NIC,1998,"1,476,428"
+Nicaragua,NIC,1999,"1,571,388"
+Nicaragua,NIC,2000,"1,718,336"
+Nicaragua,NIC,2001,"1,728,605"
+Nicaragua,NIC,2002,"1,782,256"
+Nicaragua,NIC,2003,"1,859,656"
+Nicaragua,NIC,2004,"1,924,491"
+Nicaragua,NIC,2005,"2,004,142"
+Nicaragua,NIC,2006,"2,071,581"
+Nicaragua,NIC,2007,"2,107,195"
+Nicaragua,NIC,2008,"2,158,880"
+Nicaragua,NIC,2009,"2,163,901"
+Nicaragua,NIC,2010,"2,228,647"
+Nicaragua,NIC,2011,"2,329,430"
+Nicaragua,NIC,2012,"2,385,461"
+Nicaragua,NIC,2013,"2,445,295"
+Nicaragua,NIC,2014,"2,468,918"
+Nicaragua,NIC,2015,"2,537,416"
+Nicaragua,NIC,2016,"2,584,720"
+Paraguay,PRY,1980, -   
+Paraguay,PRY,1981, -   
+Paraguay,PRY,1982, -   
+Paraguay,PRY,1983, -   
+Paraguay,PRY,1984, -   
+Paraguay,PRY,1985, -   
+Paraguay,PRY,1986, -   
+Paraguay,PRY,1987, -   
+Paraguay,PRY,1988,"1,606,182"
+Paraguay,PRY,1989,"1,629,599"
+Paraguay,PRY,1990,"1,673,952"
+Paraguay,PRY,1991,"1,755,754"
+Paraguay,PRY,1992,"1,805,929"
+Paraguay,PRY,1993,"1,865,611"
+Paraguay,PRY,1994,"1,937,965"
+Paraguay,PRY,1995,"1,982,933"
+Paraguay,PRY,1996,"1,928,571"
+Paraguay,PRY,1997,"1,951,290"
+Paraguay,PRY,1998,"1,962,782"
+Paraguay,PRY,1999,"1,978,740"
+Paraguay,PRY,2000,"2,034,207"
+Paraguay,PRY,2001,"2,083,989"
+Paraguay,PRY,2002,"2,055,457"
+Paraguay,PRY,2003,"2,206,875"
+Paraguay,PRY,2004,"2,304,198"
+Paraguay,PRY,2005,"2,436,459"
+Paraguay,PRY,2006,"2,468,145"
+Paraguay,PRY,2007,"2,580,545"
+Paraguay,PRY,2008,"2,628,044"
+Paraguay,PRY,2009,"2,700,517"
+Paraguay,PRY,2010,"2,693,328"
+Paraguay,PRY,2011,"2,748,373"
+Paraguay,PRY,2012,"2,799,762"
+Paraguay,PRY,2013,"2,881,421"
+Paraguay,PRY,2014,"3,116,514"
+Paraguay,PRY,2015,"3,210,009"
+Paraguay,PRY,2016,"3,308,497"
+Peru,PER,1980, -   
+Peru,PER,1981, -   
+Peru,PER,1982, -   
+Peru,PER,1983, -   
+Peru,PER,1984, -   
+Peru,PER,1985, -   
+Peru,PER,1986, -   
+Peru,PER,1987, -   
+Peru,PER,1988,"7,186,135"
+Peru,PER,1989,"7,345,168"
+Peru,PER,1990,"7,598,547"
+Peru,PER,1991,"7,807,537"
+Peru,PER,1992,"7,917,823"
+Peru,PER,1993,"8,261,645"
+Peru,PER,1994,"8,760,929"
+Peru,PER,1995,"9,278,640"
+Peru,PER,1996,"9,801,384"
+Peru,PER,1997,"10,162,480"
+Peru,PER,1998,"10,604,590"
+Peru,PER,1999,"10,937,450"
+Peru,PER,2000,"10,934,840"
+Peru,PER,2001,"11,544,900"
+Peru,PER,2002,"11,408,490"
+Peru,PER,2003,"11,300,370"
+Peru,PER,2004,"11,480,570"
+Peru,PER,2005,"11,647,190"
+Peru,PER,2006,"12,272,260"
+Peru,PER,2007,"13,353,810"
+Peru,PER,2008,"13,766,880"
+Peru,PER,2009,"14,160,130"
+Peru,PER,2010,"14,527,430"
+Peru,PER,2011,"14,834,500"
+Peru,PER,2012,"15,249,710"
+Peru,PER,2013,"15,675,750"
+Peru,PER,2014,"15,966,430"
+Peru,PER,2015,"15,910,830"
+Peru,PER,2016,"16,297,930"
+Senegal,SEN,1980, -   
+Senegal,SEN,1981, -   
+Senegal,SEN,1982, -   
+Senegal,SEN,1983, -   
+Senegal,SEN,1984, -   
+Senegal,SEN,1985, -   
+Senegal,SEN,1986, -   
+Senegal,SEN,1987, -   
+Senegal,SEN,1988,"2,813,263"
+Senegal,SEN,1989,"2,902,950"
+Senegal,SEN,1990,"3,000,095"
+Senegal,SEN,1991,"2,789,679"
+Senegal,SEN,1992,"2,886,821"
+Senegal,SEN,1993,"2,988,177"
+Senegal,SEN,1994,"3,095,713"
+Senegal,SEN,1995,"3,200,013"
+Senegal,SEN,1996,"3,290,703"
+Senegal,SEN,1997,"3,382,416"
+Senegal,SEN,1998,"3,472,466"
+Senegal,SEN,1999,"3,567,544"
+Senegal,SEN,2000,"3,674,680"
+Senegal,SEN,2001,"3,787,652"
+Senegal,SEN,2002,"3,904,323"
+Senegal,SEN,2003,"4,030,753"
+Senegal,SEN,2004,"4,163,114"
+Senegal,SEN,2005,"4,293,950"
+Senegal,SEN,2006,"4,429,328"
+Senegal,SEN,2007,"4,566,433"
+Senegal,SEN,2008,"4,709,729"
+Senegal,SEN,2009,"4,858,396"
+Senegal,SEN,2010,"5,000,978"
+Senegal,SEN,2011,"5,152,191"
+Senegal,SEN,2012,"5,324,185"
+Senegal,SEN,2013,"5,487,995"
+Senegal,SEN,2014,"5,660,317"
+Senegal,SEN,2015,"5,836,351"
+Senegal,SEN,2016,"6,018,232"
+Solomon Islands,SLB,1980, -   
+Solomon Islands,SLB,1981, -   
+Solomon Islands,SLB,1982, -   
+Solomon Islands,SLB,1983, -   
+Solomon Islands,SLB,1984, -   
+Solomon Islands,SLB,1985, -   
+Solomon Islands,SLB,1986, -   
+Solomon Islands,SLB,1987, -   
+Solomon Islands,SLB,1988,"87,388"
+Solomon Islands,SLB,1989,"89,586"
+Solomon Islands,SLB,1990,"93,160"
+Solomon Islands,SLB,1991,"96,345"
+Solomon Islands,SLB,1992,"99,911"
+Solomon Islands,SLB,1993,"103,648"
+Solomon Islands,SLB,1994,"107,639"
+Solomon Islands,SLB,1995,"111,691"
+Solomon Islands,SLB,1996,"115,638"
+Solomon Islands,SLB,1997,"119,866"
+Solomon Islands,SLB,1998,"124,194"
+Solomon Islands,SLB,1999,"128,628"
+Solomon Islands,SLB,2000,"132,968"
+Solomon Islands,SLB,2001,"137,126"
+Solomon Islands,SLB,2002,"141,288"
+Solomon Islands,SLB,2003,"145,476"
+Solomon Islands,SLB,2004,"149,736"
+Solomon Islands,SLB,2005,"153,871"
+Solomon Islands,SLB,2006,"157,918"
+Solomon Islands,SLB,2007,"161,969"
+Solomon Islands,SLB,2008,"166,018"
+Solomon Islands,SLB,2009,"169,829"
+Solomon Islands,SLB,2010,"173,964"
+Solomon Islands,SLB,2011,"178,154"
+Solomon Islands,SLB,2012,"182,339"
+Solomon Islands,SLB,2013,"186,999"
+Solomon Islands,SLB,2014,"193,032"
+Solomon Islands,SLB,2015,"198,435"
+Solomon Islands,SLB,2016,"203,989"
+Turkey,TUR,1980,"15,779,889"
+Turkey,TUR,1981,"15,916,888"
+Turkey,TUR,1982,"16,084,887"
+Turkey,TUR,1983,"16,248,886"
+Turkey,TUR,1984,"16,500,884"
+Turkey,TUR,1985,"16,781,882"
+Turkey,TUR,1986,"17,093,880"
+Turkey,TUR,1987,"17,487,877"
+Turkey,TUR,1988,"17,754,875"
+Turkey,TUR,1989,"18,221,872"
+Turkey,TUR,1990,"18,537,870"
+Turkey,TUR,1991,"19,287,864"
+Turkey,TUR,1992,"19,459,863"
+Turkey,TUR,1993,"18,499,870"
+Turkey,TUR,1994,"20,005,859"
+Turkey,TUR,1995,"20,585,855"
+Turkey,TUR,1996,"21,193,851"
+Turkey,TUR,1997,"21,204,851"
+Turkey,TUR,1998,"21,778,847"
+Turkey,TUR,1999,"22,047,845"
+Turkey,TUR,2000,"21,580,848"
+Turkey,TUR,2001,"21,523,849"
+Turkey,TUR,2002,"21,353,850"
+Turkey,TUR,2003,"21,146,851"
+Turkey,TUR,2004,"19,631,862"
+Turkey,TUR,2005,"20,066,636"
+Turkey,TUR,2006,"20,423,095"
+Turkey,TUR,2007,"20,737,647"
+Turkey,TUR,2008,"21,193,619"
+Turkey,TUR,2009,"21,277,000"
+Turkey,TUR,2010,"22,594,000"
+Turkey,TUR,2011,"24,110,000"
+Turkey,TUR,2012,"24,821,000"
+Turkey,TUR,2013,"25,524,000"
+Turkey,TUR,2014,"25,938,352"
+Turkey,TUR,2015,"26,612,749"
+Turkey,TUR,2016,"27,357,906"
+Vanuatu,VUT,1980, -   
+Vanuatu,VUT,1981, -   
+Vanuatu,VUT,1982, -   
+Vanuatu,VUT,1983, -   
+Vanuatu,VUT,1984, -   
+Vanuatu,VUT,1985, -   
+Vanuatu,VUT,1986, -   
+Vanuatu,VUT,1987, -   
+Vanuatu,VUT,1988,"33,726"
+Vanuatu,VUT,1989,"34,188"
+Vanuatu,VUT,1990,"35,574"
+Vanuatu,VUT,1991,"36,960"
+Vanuatu,VUT,1992,"37,884"
+Vanuatu,VUT,1993,"39,732"
+Vanuatu,VUT,1994,"41,118"
+Vanuatu,VUT,1995,"42,042"
+Vanuatu,VUT,1996,"42,966"
+Vanuatu,VUT,1997,"43,890"
+Vanuatu,VUT,1998,"43,890"
+Vanuatu,VUT,1999,"45,738"
+Vanuatu,VUT,2000,"47,124"
+Vanuatu,VUT,2001,"48,510"
+Vanuatu,VUT,2002,"49,896"
+Vanuatu,VUT,2003,"52,668"
+Vanuatu,VUT,2004,"53,130"
+Vanuatu,VUT,2005,"54,516"
+Vanuatu,VUT,2006,"57,288"
+Vanuatu,VUT,2007,"58,212"
+Vanuatu,VUT,2008,"60,060"
+Vanuatu,VUT,2009,"61,446"
+Vanuatu,VUT,2010,"63,294"
+Vanuatu,VUT,2011,"65,142"
+Vanuatu,VUT,2012,"66,990"
+Vanuatu,VUT,2013,"67,914"
+Vanuatu,VUT,2014,"70,258"
+Vanuatu,VUT,2015,"72,130"
+Vanuatu,VUT,2016,"74,245"
